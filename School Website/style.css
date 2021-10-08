@@ -1,0 +1,41 @@
+.nav{
+    color: firebrick;
+    
+}
+marquee{
+    color:white;
+}
+li{
+    background-color: slategray;
+}
+.navbar-header{
+    background-color: slategray;
+}
+#header{
+    font-family: cursive;
+    text-align: center;
+}
+iframe{
+    text-align: center;
+}
+#frame{
+    text-align: center
+}
+#contact{
+    text-align: center;
+}
+#varExperi{
+    text-align: center;
+}
+h5{
+    text-align: center;
+}
+#contact{
+    text-align: center;
+}
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
